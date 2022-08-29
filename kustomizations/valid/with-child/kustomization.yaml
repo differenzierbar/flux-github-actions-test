@@ -3,5 +3,4 @@ kind: Kustomization
 resources:
 - configmap.yml
 - child
-- ../../repository/app/1
 
