@@ -5,3 +5,5 @@ metadata:
   name: valid
 spec:
   path: ./conftest/valid
+  sourceRef:
+    name: flux-system
